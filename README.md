@@ -1,8 +1,8 @@
 # Programa-1-Simular-procesamiento-por-lotes.
-```markdown
-# Simulador de Procesos
 
-## Descripción del Programa
+## Simulador de Procesos
+
+### Descripción del Programa
 
 1. Introducción de Procesos:
    - Se pueden introducir N procesos desde el teclado.
